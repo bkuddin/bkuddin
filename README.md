@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
-- 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/bkuddin)**
+- 👨‍💻 My latest projects are available at **[BK HOSSAIN](https://bk-hossain.netlify.app/)**
 
 - 📫 How to reach me **1bkhossain@gmail.com**
 
